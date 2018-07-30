@@ -29,14 +29,14 @@ h3{
   font-size: 23px;
   font-weight:bold;
 }
-.design{
+div.design{
   font-family:Helvetica;
   font-size: 23px;
   font-weight:bold;
   color:white;
   background-image:url("../images/the-flatiron-building.png");
 }
-p.end{
+div.end{
   font-family:Helvetica;
   font-size: 11px;
   color:white;
